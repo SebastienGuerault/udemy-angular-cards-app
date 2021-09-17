@@ -11,7 +11,7 @@ https://angular.io/guide/setup-local
 
 Clone this repository with your Git client or by executing :
 
-git clone https://github.com/SebastienGuerault/udemy-angular-password-generator.git
+git clone https://github.com/SebastienGuerault/udemy-angular-cards-app.git
 
 Enter the project directory, e.g. cd udemy-angular-password-generator
 
